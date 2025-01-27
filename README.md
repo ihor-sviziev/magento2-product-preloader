@@ -1,3 +1,9 @@
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=ENpmvSR2gGM">
+         <img src="https://img.youtube.com/vi/ENpmvSR2gGM/0.jpg" style="width:50%;">
+      </a>
+</div>
+
 # Product Data Pre-Loader
 
 Magento platform code and third-party extensions in a lot of cases produce redundant database queries on product collections load.
